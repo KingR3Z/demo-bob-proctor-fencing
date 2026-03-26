@@ -45,12 +45,8 @@ export const client = {
     { before: "/images/drive-before.jpg", after: "/images/drive-after.jpg", label: "Driveway" },
   ] as { before: string; after: string; label: string }[],
   reviews: [
-    { name: "Sarah M.", rating: 5, text: "Absolutely fantastic work. Professional from start to finish. Couldn't recommend more highly.", date: "2 weeks ago", badge: "Local Guide" },
-    { name: "James T.", rating: 5, text: "Brilliant job. They understood exactly what we wanted and delivered beyond expectations.", date: "1 month ago" },
-    { name: "Karen D.", rating: 5, text: "Best in the area. Transformed our garden into something we're genuinely proud of.", date: "3 weeks ago", badge: "Local Guide" },
-    { name: "David R.", rating: 5, text: "From consultation to completion, everything was handled professionally. Fair pricing throughout.", date: "2 months ago" },
-    { name: "Emma W.", rating: 5, text: "Beautiful results. They delivered exactly what we asked for with a stunning finish.", date: "1 month ago" },
-    { name: "Paul H.", rating: 5, text: "Outstanding quality. Neighbours keep stopping to compliment the work. Highly recommended.", date: "3 weeks ago", badge: "Local Guide" },
+    { name: "Gavin Lax", rating: 5, text: "Asked Bob to have a look at some fencing and a gate on my fathers property who has dementia. Bob was very understanding and thorough also bang on time. Havent had the job done yet but happy to give Bob the work.", date: "4 years ago", badge: "Local Guide" },
+    { name: "sana marfitt-", rating: 5, text: "I called Bob as I have a very heavy garden gate that had come away from its fixings and was pulling bricks out of the garden wall it was attached to. Bob came up with an idea to fix the gate and stop the issue happening in the future, the work was completed at a time that suited me and for a reasonable price, would not hesitate to recommend.", date: "8 years ago" },
   ] as { name: string; rating: number; text: string; date: string; badge?: string }[],
   seo: {
     title: "Bob Proctor Fencing | Professional Fencing Contractor in Newcastle upon Tyne",
